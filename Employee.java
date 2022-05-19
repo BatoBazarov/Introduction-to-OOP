@@ -17,10 +17,7 @@ public class Employee {
             this.phone = phone;
             this.salary = salary;
             this.age = age;
-        }
-        public () {
-            System.out.println("Name: " + name + " | " + "Position: " + position + " | " + "Email: " + email + " | " +
-                    "Phone: " + phone + " | " + "Salary: " + salary + " | " + "Age: " + age);
-        }
+      }
+       
     }
 }
